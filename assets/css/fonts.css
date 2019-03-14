@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Alwyn;
+    src: url(/assets/fonts/alwym__-webfont.eot),
+        url(/assets/fonts/alwym__-webfont.eot?#iefix) format(embedded-opentype),
+       url(/assets/fonts/alwym__-webfont.woff) format(woff),
+       url(/assets/fonts/alwym__-webfont.ttf)  format(truetype),
+       url(/assets/fonts/alwym__-webfont.svg#svgFontName) format(svg);
+}
